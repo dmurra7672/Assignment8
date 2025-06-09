@@ -18,6 +18,13 @@ body {
    box-shadow: 10px 0 50px rgb(51, 51, 51), -10px 0 50px rgb(51, 51, 51);
  }
  
+ body > header nav.tabs {
+   background-image: url("sf_back1.png");
+   background-repeat: no-repeat;
+   background-position: center center;
+   background-size: cover;
+ }
+
 /* Navigation Tabs List Styles */
 
 
